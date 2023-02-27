@@ -1,7 +1,7 @@
 # Leveraging Deep Learning to Facilitate Fish Counts
 
-#### Jamie Shaffer, July 2020
-*Updated code May 2021*
+#### Jamie Shaffer, July 2020. Update Robin Ochoa, Jhony F Lopez, Feb 2023
+*Updated code May 2021* Update code Feb 2023
 
 ### Contents
 - [Executive Summary](#Executive-Summary)
